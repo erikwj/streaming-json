@@ -75,7 +75,7 @@ import ShipmentJsonParser._
     implicit val styles = new ExcelWriter(workbook)
 
     val f: JsonFactory = new MappingJsonFactory()
-    val dataFile: String = "resources/3million.json"
+    val dataFile: String = "resources/maxrows.json"
     val jFile = new File(dataFile)
 
     val defaultColSeq = (1 to 6).toSeq
