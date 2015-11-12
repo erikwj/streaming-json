@@ -1,0 +1,49 @@
+{
+    "testjsons": [{
+        "elements": [{
+            "quantity": 190,
+            "label": "XNnzfaDVXHTRDbptJMUauZoyLV"
+        }, {
+            "quantity": 122,
+            "label": "fwUptTMwwpwwXcLkPJMktPWzzIMqlgQbfVtHFdUY"
+        }, {
+            "quantity": 229,
+            "label": "lbXdavnYRwdyjGoOeVOuhUsF"
+        }],
+        "name": "TiJmEMkVDXLdvyabCBX",
+        "isValid": false,
+        "average": 599390.7601225921,
+        "owner": {
+            "bankaccount": 3147123045,
+            "name": "egLUwsLxceqHtTsYAzusLrQmtgczOrCueLLZDmLjztXHsZC"
+        },
+        "dimensions": {
+            "width": 123,
+            "length": 89,
+            "height": 240
+        }
+    }, {
+        "elements": [{
+            "quantity": 212,
+            "label": "qecZyFQjQbgWJTdXJuweqUayYlgE"
+        }, {
+            "quantity": 82,
+            "label": "TuVLWKpBjfDUrbLTaSWOD"
+        }, {
+            "quantity": 157,
+            "label": "cFmLOLqyicWuweOrSpzgSTqiDBGIxszFaO"
+        }],
+        "name": "UhOzrtrrMeqpKHlIqxIqaNt",
+        "isValid": true,
+        "average": 294358020.1492004,
+        "owner": {
+            "bankaccount": 1690982272,
+            "name": "zBTlsSStafxTsGjrtgUlHBxvUxID"
+        },
+        "dimensions": {
+            "width": 219,
+            "length": 179,
+            "height": 205
+        }
+    }]
+}
